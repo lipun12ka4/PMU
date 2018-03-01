@@ -1,0 +1,2392 @@
+Phasor Magnitude for Phase 1 is: 218.27
+Phasor Magnitude for Phase 2 is: 216.34
+Phasor Magnitude for Phase 3 is: 219.45
+Phase 1 Angle is: -34.72
+Phase 2 Angle is: 84.80
+Phase 3 Angle is: -155.62
+Latitude 22.25 Longitude 84.90 12:09:48:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.68
+Phasor Magnitude for Phase 2 is: 216.84
+Phasor Magnitude for Phase 3 is: 218.66
+Phase 1 Angle is: -27.85
+Phase 2 Angle is: 91.67
+Phase 3 Angle is: -148.74
+Latitude 22.25 Longitude 84.90 12:09:48:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.57
+Phasor Magnitude for Phase 2 is: 216.74
+Phasor Magnitude for Phase 3 is: 218.40
+Phase 1 Angle is: -26.13
+Phase 2 Angle is: 93.39
+Phase 3 Angle is: -146.45
+Latitude 22.25 Longitude 84.90 12:09:48:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.57
+Phasor Magnitude for Phase 2 is: 217.13
+Phasor Magnitude for Phase 3 is: 218.73
+Phase 1 Angle is: -24.41
+Phase 2 Angle is: 95.68
+Phase 3 Angle is: -144.73
+Latitude 22.25 Longitude 84.90 12:09:48:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.61
+Phasor Magnitude for Phase 2 is: 217.05
+Phasor Magnitude for Phase 3 is: 218.49
+Phase 1 Angle is: -22.69
+Phase 2 Angle is: 97.40
+Phase 3 Angle is: -143.01
+Latitude 22.25 Longitude 84.90 12:09:48:402 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.76
+Phasor Magnitude for Phase 2 is: 216.95
+Phasor Magnitude for Phase 3 is: 218.87
+Phase 1 Angle is: -20.40
+Phase 2 Angle is: 99.69
+Phase 3 Angle is: -140.72
+Latitude 22.25 Longitude 84.90 12:09:48:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.82
+Phasor Magnitude for Phase 2 is: 216.88
+Phasor Magnitude for Phase 3 is: 218.29
+Phase 1 Angle is: -18.68
+Phase 2 Angle is: 100.84
+Phase 3 Angle is: -139.00
+Latitude 22.25 Longitude 84.90 12:09:48:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.06
+Phasor Magnitude for Phase 2 is: 217.11
+Phasor Magnitude for Phase 3 is: 218.29
+Phase 1 Angle is: -16.39
+Phase 2 Angle is: 103.13
+Phase 3 Angle is: -137.28
+Latitude 22.25 Longitude 84.90 12:09:48:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.92
+Phasor Magnitude for Phase 2 is: 217.15
+Phasor Magnitude for Phase 3 is: 218.12
+Phase 1 Angle is: -15.24
+Phase 2 Angle is: 104.85
+Phase 3 Angle is: -135.56
+Latitude 22.25 Longitude 84.90 12:09:48:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.88
+Phasor Magnitude for Phase 2 is: 217.03
+Phasor Magnitude for Phase 3 is: 218.49
+Phase 1 Angle is: -12.95
+Phase 2 Angle is: 107.14
+Phase 3 Angle is: -133.27
+Latitude 22.25 Longitude 84.90 12:09:48:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.27
+Phasor Magnitude for Phase 2 is: 216.72
+Phasor Magnitude for Phase 3 is: 218.14
+Phase 1 Angle is: -11.23
+Phase 2 Angle is: 108.86
+Phase 3 Angle is: -131.55
+Latitude 22.25 Longitude 84.90 12:09:48:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.11
+Phasor Magnitude for Phase 2 is: 217.05
+Phasor Magnitude for Phase 3 is: 218.04
+Phase 1 Angle is: -9.51
+Phase 2 Angle is: 110.58
+Phase 3 Angle is: -129.83
+Latitude 22.25 Longitude 84.90 12:09:48:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.96
+Phasor Magnitude for Phase 2 is: 217.03
+Phasor Magnitude for Phase 3 is: 218.08
+Phase 1 Angle is: -7.22
+Phase 2 Angle is: 112.87
+Phase 3 Angle is: -127.54
+Latitude 22.25 Longitude 84.90 12:09:48:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.17
+Phasor Magnitude for Phase 2 is: 217.08
+Phasor Magnitude for Phase 3 is: 217.84
+Phase 1 Angle is: -5.50
+Phase 2 Angle is: 114.59
+Phase 3 Angle is: -125.82
+Latitude 22.25 Longitude 84.90 12:09:48:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.12
+Phasor Magnitude for Phase 2 is: 217.09
+Phasor Magnitude for Phase 3 is: 217.85
+Phase 1 Angle is: -3.21
+Phase 2 Angle is: 116.88
+Phase 3 Angle is: -123.53
+Latitude 22.25 Longitude 84.90 12:09:48:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.05
+Phasor Magnitude for Phase 2 is: 217.28
+Phasor Magnitude for Phase 3 is: 217.85
+Phase 1 Angle is: -1.49
+Phase 2 Angle is: 118.60
+Phase 3 Angle is: -121.81
+Latitude 22.25 Longitude 84.90 12:09:48:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.14
+Phasor Magnitude for Phase 2 is: 217.38
+Phasor Magnitude for Phase 3 is: 217.83
+Phase 1 Angle is: 0.00
+Phase 2 Angle is: 120.32
+Phase 3 Angle is: -120.09
+Latitude 22.25 Longitude 84.90 12:09:48:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.27
+Phasor Magnitude for Phase 2 is: 217.29
+Phasor Magnitude for Phase 3 is: 217.75
+Phase 1 Angle is: 2.29
+Phase 2 Angle is: 122.04
+Phase 3 Angle is: -118.37
+Latitude 22.25 Longitude 84.90 12:09:48:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.38
+Phasor Magnitude for Phase 2 is: 217.45
+Phasor Magnitude for Phase 3 is: 217.69
+Phase 1 Angle is: 4.01
+Phase 2 Angle is: 124.33
+Phase 3 Angle is: -116.08
+Latitude 22.25 Longitude 84.90 12:09:48:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.03
+Phasor Magnitude for Phase 2 is: 217.36
+Phasor Magnitude for Phase 3 is: 217.55
+Phase 1 Angle is: 5.73
+Phase 2 Angle is: 126.05
+Phase 3 Angle is: -114.36
+Latitude 22.25 Longitude 84.90 12:09:48:1 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.14
+Phasor Magnitude for Phase 2 is: 217.50
+Phasor Magnitude for Phase 3 is: 217.46
+Phase 1 Angle is: 8.02
+Phase 2 Angle is: 127.77
+Phase 3 Angle is: -112.64
+Latitude 22.25 Longitude 84.90 12:09:48:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.65
+Phasor Magnitude for Phase 2 is: 217.42
+Phasor Magnitude for Phase 3 is: 217.01
+Phase 1 Angle is: 10.89
+Phase 2 Angle is: 131.21
+Phase 3 Angle is: -109.78
+Latitude 22.25 Longitude 84.90 12:09:49:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.67
+Phasor Magnitude for Phase 2 is: 217.37
+Phasor Magnitude for Phase 3 is: 216.92
+Phase 1 Angle is: 12.61
+Phase 2 Angle is: 132.93
+Phase 3 Angle is: -107.49
+Latitude 22.25 Longitude 84.90 12:09:49:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.34
+Phasor Magnitude for Phase 2 is: 217.77
+Phasor Magnitude for Phase 3 is: 216.86
+Phase 1 Angle is: 14.32
+Phase 2 Angle is: 134.65
+Phase 3 Angle is: -105.77
+Latitude 22.25 Longitude 84.90 12:09:49:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.46
+Phasor Magnitude for Phase 2 is: 217.46
+Phasor Magnitude for Phase 3 is: 216.99
+Phase 1 Angle is: 16.62
+Phase 2 Angle is: 136.94
+Phase 3 Angle is: -103.48
+Latitude 22.25 Longitude 84.90 12:09:49:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.18
+Phasor Magnitude for Phase 2 is: 217.81
+Phasor Magnitude for Phase 3 is: 217.07
+Phase 1 Angle is: 19.48
+Phase 2 Angle is: 139.80
+Phase 3 Angle is: -100.61
+Latitude 22.25 Longitude 84.90 12:09:49:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.89
+Phasor Magnitude for Phase 2 is: 218.55
+Phasor Magnitude for Phase 3 is: 217.27
+Phase 1 Angle is: 26.93
+Phase 2 Angle is: 147.25
+Phase 3 Angle is: -93.16
+Latitude 22.25 Longitude 84.90 12:09:49:402 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.81
+Phasor Magnitude for Phase 2 is: 218.34
+Phasor Magnitude for Phase 3 is: 217.06
+Phase 1 Angle is: 28.07
+Phase 2 Angle is: 148.97
+Phase 3 Angle is: -91.44
+Latitude 22.25 Longitude 84.90 12:09:49:442 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.88
+Phasor Magnitude for Phase 2 is: 218.27
+Phasor Magnitude for Phase 3 is: 216.99
+Phase 1 Angle is: 30.37
+Phase 2 Angle is: 151.26
+Phase 3 Angle is: -89.15
+Latitude 22.25 Longitude 84.90 12:09:49:482 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.76
+Phasor Magnitude for Phase 2 is: 218.21
+Phasor Magnitude for Phase 3 is: 217.27
+Phase 1 Angle is: 32.09
+Phase 2 Angle is: 152.98
+Phase 3 Angle is: -87.43
+Latitude 22.25 Longitude 84.90 12:09:49:522 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.59
+Phasor Magnitude for Phase 2 is: 218.59
+Phasor Magnitude for Phase 3 is: 216.92
+Phase 1 Angle is: 34.38
+Phase 2 Angle is: 154.70
+Phase 3 Angle is: -85.71
+Latitude 22.25 Longitude 84.90 12:09:49:562 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.39
+Phasor Magnitude for Phase 2 is: 218.28
+Phasor Magnitude for Phase 3 is: 217.29
+Phase 1 Angle is: 36.10
+Phase 2 Angle is: 156.42
+Phase 3 Angle is: -84.00
+Latitude 22.25 Longitude 84.90 12:09:49:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 218.43
+Phasor Magnitude for Phase 3 is: 217.07
+Phase 1 Angle is: 38.39
+Phase 2 Angle is: 158.71
+Phase 3 Angle is: -81.70
+Latitude 22.25 Longitude 84.90 12:09:49:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.34
+Phasor Magnitude for Phase 2 is: 218.40
+Phasor Magnitude for Phase 3 is: 217.13
+Phase 1 Angle is: 40.11
+Phase 2 Angle is: 160.43
+Phase 3 Angle is: -79.98
+Latitude 22.25 Longitude 84.90 12:09:49:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.34
+Phasor Magnitude for Phase 2 is: 218.39
+Phasor Magnitude for Phase 3 is: 217.09
+Phase 1 Angle is: 41.83
+Phase 2 Angle is: 162.15
+Phase 3 Angle is: -77.69
+Latitude 22.25 Longitude 84.90 12:09:49:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.20
+Phasor Magnitude for Phase 2 is: 218.63
+Phasor Magnitude for Phase 3 is: 217.45
+Phase 1 Angle is: 43.54
+Phase 2 Angle is: 163.87
+Phase 3 Angle is: -75.97
+Latitude 22.25 Longitude 84.90 12:09:49:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.19
+Phasor Magnitude for Phase 2 is: 218.81
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: 45.84
+Phase 2 Angle is: 166.16
+Phase 3 Angle is: -73.68
+Latitude 22.25 Longitude 84.90 12:09:49:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.27
+Phasor Magnitude for Phase 2 is: 218.59
+Phasor Magnitude for Phase 3 is: 217.16
+Phase 1 Angle is: 47.56
+Phase 2 Angle is: 167.88
+Phase 3 Angle is: -71.96
+Latitude 22.25 Longitude 84.90 12:09:49:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.06
+Phasor Magnitude for Phase 2 is: 218.56
+Phasor Magnitude for Phase 3 is: 217.44
+Phase 1 Angle is: 49.27
+Phase 2 Angle is: 169.60
+Phase 3 Angle is: -70.24
+Latitude 22.25 Longitude 84.90 12:09:49:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.94
+Phasor Magnitude for Phase 2 is: 218.71
+Phasor Magnitude for Phase 3 is: 217.36
+Phase 1 Angle is: 51.57
+Phase 2 Angle is: 171.89
+Phase 3 Angle is: -68.53
+Latitude 22.25 Longitude 84.90 12:09:49:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.96
+Phasor Magnitude for Phase 2 is: 218.86
+Phasor Magnitude for Phase 3 is: 217.14
+Phase 1 Angle is: 53.29
+Phase 2 Angle is: 173.61
+Phase 3 Angle is: -66.23
+Latitude 22.25 Longitude 84.90 12:09:49:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.02
+Phasor Magnitude for Phase 2 is: 218.67
+Phasor Magnitude for Phase 3 is: 217.23
+Phase 1 Angle is: 55.00
+Phase 2 Angle is: 175.90
+Phase 3 Angle is: -64.52
+Latitude 22.25 Longitude 84.90 12:09:49:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.89
+Phasor Magnitude for Phase 2 is: 218.94
+Phasor Magnitude for Phase 3 is: 217.41
+Phase 1 Angle is: 56.72
+Phase 2 Angle is: 177.04
+Phase 3 Angle is: -62.80
+Latitude 22.25 Longitude 84.90 12:09:49:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.50
+Phasor Magnitude for Phase 2 is: 219.23
+Phasor Magnitude for Phase 3 is: 217.05
+Phase 1 Angle is: 60.16
+Phase 2 Angle is: -179.68
+Phase 3 Angle is: -59.36
+Latitude 22.25 Longitude 84.90 12:09:50:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.37
+Phasor Magnitude for Phase 2 is: 219.55
+Phasor Magnitude for Phase 3 is: 217.11
+Phase 1 Angle is: 61.88
+Phase 2 Angle is: -177.96
+Phase 3 Angle is: -57.64
+Latitude 22.25 Longitude 84.90 12:09:50:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.20
+Phasor Magnitude for Phase 2 is: 219.21
+Phasor Magnitude for Phase 3 is: 217.58
+Phase 1 Angle is: 63.60
+Phase 2 Angle is: -176.24
+Phase 3 Angle is: -55.92
+Latitude 22.25 Longitude 84.90 12:09:50:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.29
+Phasor Magnitude for Phase 2 is: 219.23
+Phasor Magnitude for Phase 3 is: 217.21
+Phase 1 Angle is: 65.32
+Phase 2 Angle is: -174.52
+Phase 3 Angle is: -54.20
+Latitude 22.25 Longitude 84.90 12:09:50:203 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.57
+Phasor Magnitude for Phase 2 is: 218.95
+Phasor Magnitude for Phase 3 is: 218.06
+Phase 1 Angle is: 66.46
+Phase 2 Angle is: -173.38
+Phase 3 Angle is: -53.06
+Latitude 22.25 Longitude 84.90 12:09:50:243 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.44
+Phasor Magnitude for Phase 2 is: 218.91
+Phasor Magnitude for Phase 3 is: 217.95
+Phase 1 Angle is: 68.75
+Phase 2 Angle is: -171.09
+Phase 3 Angle is: -50.76
+Latitude 22.25 Longitude 84.90 12:09:50:283 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.34
+Phasor Magnitude for Phase 2 is: 218.92
+Phasor Magnitude for Phase 3 is: 217.79
+Phase 1 Angle is: 70.47
+Phase 2 Angle is: -169.37
+Phase 3 Angle is: -49.05
+Latitude 22.25 Longitude 84.90 12:09:50:323 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.12
+Phasor Magnitude for Phase 2 is: 219.09
+Phasor Magnitude for Phase 3 is: 218.10
+Phase 1 Angle is: 72.19
+Phase 2 Angle is: -167.65
+Phase 3 Angle is: -47.33
+Latitude 22.25 Longitude 84.90 12:09:50:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.36
+Phasor Magnitude for Phase 2 is: 218.68
+Phasor Magnitude for Phase 3 is: 218.41
+Phase 1 Angle is: 79.64
+Phase 2 Angle is: -160.20
+Phase 3 Angle is: -39.88
+Latitude 22.25 Longitude 84.90 12:09:50:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.38
+Phasor Magnitude for Phase 2 is: 218.41
+Phasor Magnitude for Phase 3 is: 218.25
+Phase 1 Angle is: 81.36
+Phase 2 Angle is: -158.48
+Phase 3 Angle is: -38.16
+Latitude 22.25 Longitude 84.90 12:09:50:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.26
+Phasor Magnitude for Phase 2 is: 218.84
+Phasor Magnitude for Phase 3 is: 218.44
+Phase 1 Angle is: 83.65
+Phase 2 Angle is: -156.19
+Phase 3 Angle is: -35.87
+Latitude 22.25 Longitude 84.90 12:09:50:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.23
+Phasor Magnitude for Phase 2 is: 218.57
+Phasor Magnitude for Phase 3 is: 218.24
+Phase 1 Angle is: 85.37
+Phase 2 Angle is: -154.47
+Phase 3 Angle is: -34.15
+Latitude 22.25 Longitude 84.90 12:09:50:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.08
+Phasor Magnitude for Phase 2 is: 218.85
+Phasor Magnitude for Phase 3 is: 218.30
+Phase 1 Angle is: 87.66
+Phase 2 Angle is: -152.75
+Phase 3 Angle is: -32.43
+Latitude 22.25 Longitude 84.90 12:09:50:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.17
+Phasor Magnitude for Phase 2 is: 218.56
+Phasor Magnitude for Phase 3 is: 218.47
+Phase 1 Angle is: 89.95
+Phase 2 Angle is: -150.46
+Phase 3 Angle is: -30.14
+Latitude 22.25 Longitude 84.90 12:09:50:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.17
+Phasor Magnitude for Phase 2 is: 218.37
+Phasor Magnitude for Phase 3 is: 218.46
+Phase 1 Angle is: 91.67
+Phase 2 Angle is: -148.74
+Phase 3 Angle is: -28.42
+Latitude 22.25 Longitude 84.90 12:09:50:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.07
+Phasor Magnitude for Phase 2 is: 218.50
+Phasor Magnitude for Phase 3 is: 218.40
+Phase 1 Angle is: 93.39
+Phase 2 Angle is: -147.02
+Phase 3 Angle is: -26.70
+Latitude 22.25 Longitude 84.90 12:09:50:804 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.86
+Phasor Magnitude for Phase 2 is: 218.35
+Phasor Magnitude for Phase 3 is: 218.68
+Phase 1 Angle is: 95.11
+Phase 2 Angle is: -144.73
+Phase 3 Angle is: -24.41
+Latitude 22.25 Longitude 84.90 12:09:50:844 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.27
+Phasor Magnitude for Phase 2 is: 218.30
+Phasor Magnitude for Phase 3 is: 218.88
+Phase 1 Angle is: 96.83
+Phase 2 Angle is: -143.58
+Phase 3 Angle is: -23.26
+Latitude 22.25 Longitude 84.90 12:09:50:884 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.26
+Phasor Magnitude for Phase 2 is: 218.40
+Phasor Magnitude for Phase 3 is: 218.65
+Phase 1 Angle is: 99.12
+Phase 2 Angle is: -140.72
+Phase 3 Angle is: -20.40
+Latitude 22.25 Longitude 84.90 12:09:50:924 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.15
+Phasor Magnitude for Phase 2 is: 218.19
+Phasor Magnitude for Phase 3 is: 218.60
+Phase 1 Angle is: 100.84
+Phase 2 Angle is: -139.57
+Phase 3 Angle is: -19.25
+Latitude 22.25 Longitude 84.90 12:09:50:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.22
+Phasor Magnitude for Phase 2 is: 218.07
+Phasor Magnitude for Phase 3 is: 219.00
+Phase 1 Angle is: 103.13
+Phase 2 Angle is: -137.28
+Phase 3 Angle is: -16.96
+Latitude 22.25 Longitude 84.90 12:09:50:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.42
+Phasor Magnitude for Phase 2 is: 217.83
+Phasor Magnitude for Phase 3 is: 218.69
+Phase 1 Angle is: 104.85
+Phase 2 Angle is: -134.99
+Phase 3 Angle is: -14.67
+Latitude 22.25 Longitude 84.90 12:09:50:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.76
+Phasor Magnitude for Phase 2 is: 217.94
+Phasor Magnitude for Phase 3 is: 219.43
+Phase 1 Angle is: 107.72
+Phase 2 Angle is: -132.70
+Phase 3 Angle is: -11.80
+Latitude 22.25 Longitude 84.90 12:09:51:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.68
+Phasor Magnitude for Phase 2 is: 218.10
+Phasor Magnitude for Phase 3 is: 219.41
+Phase 1 Angle is: 110.01
+Phase 2 Angle is: -130.98
+Phase 3 Angle is: -10.08
+Latitude 22.25 Longitude 84.90 12:09:51:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.84
+Phasor Magnitude for Phase 2 is: 217.63
+Phasor Magnitude for Phase 3 is: 219.47
+Phase 1 Angle is: 111.73
+Phase 2 Angle is: -129.26
+Phase 3 Angle is: -8.37
+Latitude 22.25 Longitude 84.90 12:09:51:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.86
+Phasor Magnitude for Phase 2 is: 217.46
+Phasor Magnitude for Phase 3 is: 219.38
+Phase 1 Angle is: 115.16
+Phase 2 Angle is: -125.82
+Phase 3 Angle is: -4.93
+Latitude 22.25 Longitude 84.90 12:09:51:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.41
+Phasor Magnitude for Phase 2 is: 217.76
+Phasor Magnitude for Phase 3 is: 219.32
+Phase 1 Angle is: 116.31
+Phase 2 Angle is: -124.10
+Phase 3 Angle is: -3.78
+Latitude 22.25 Longitude 84.90 12:09:51:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.68
+Phasor Magnitude for Phase 2 is: 217.73
+Phasor Magnitude for Phase 3 is: 219.18
+Phase 1 Angle is: 118.03
+Phase 2 Angle is: -122.38
+Phase 3 Angle is: -2.06
+Latitude 22.25 Longitude 84.90 12:09:51:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.53
+Phasor Magnitude for Phase 2 is: 217.70
+Phasor Magnitude for Phase 3 is: 218.94
+Phase 1 Angle is: 120.32
+Phase 2 Angle is: -120.66
+Phase 3 Angle is: 0.00
+Latitude 22.25 Longitude 84.90 12:09:51:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.76
+Phasor Magnitude for Phase 2 is: 217.73
+Phasor Magnitude for Phase 3 is: 219.15
+Phase 1 Angle is: 121.47
+Phase 2 Angle is: -118.95
+Phase 3 Angle is: 1.15
+Latitude 22.25 Longitude 84.90 12:09:51:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.57
+Phasor Magnitude for Phase 2 is: 217.40
+Phasor Magnitude for Phase 3 is: 219.19
+Phase 1 Angle is: 123.76
+Phase 2 Angle is: -116.65
+Phase 3 Angle is: 3.44
+Latitude 22.25 Longitude 84.90 12:09:51:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.93
+Phasor Magnitude for Phase 2 is: 217.22
+Phasor Magnitude for Phase 3 is: 219.07
+Phase 1 Angle is: 125.48
+Phase 2 Angle is: -114.94
+Phase 3 Angle is: 5.16
+Latitude 22.25 Longitude 84.90 12:09:51:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.66
+Phasor Magnitude for Phase 2 is: 217.35
+Phasor Magnitude for Phase 3 is: 219.07
+Phase 1 Angle is: 127.77
+Phase 2 Angle is: -112.64
+Phase 3 Angle is: 7.45
+Latitude 22.25 Longitude 84.90 12:09:51:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.89
+Phasor Magnitude for Phase 2 is: 217.21
+Phasor Magnitude for Phase 3 is: 218.91
+Phase 1 Angle is: 135.22
+Phase 2 Angle is: -105.20
+Phase 3 Angle is: 14.90
+Latitude 22.25 Longitude 84.90 12:09:51:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.86
+Phasor Magnitude for Phase 2 is: 217.05
+Phasor Magnitude for Phase 3 is: 219.08
+Phase 1 Angle is: 136.94
+Phase 2 Angle is: -103.48
+Phase 3 Angle is: 16.62
+Latitude 22.25 Longitude 84.90 12:09:51:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.23
+Phasor Magnitude for Phase 2 is: 216.98
+Phasor Magnitude for Phase 3 is: 218.99
+Phase 1 Angle is: 139.23
+Phase 2 Angle is: -101.18
+Phase 3 Angle is: 18.33
+Latitude 22.25 Longitude 84.90 12:09:51:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.18
+Phasor Magnitude for Phase 2 is: 217.27
+Phasor Magnitude for Phase 3 is: 218.87
+Phase 1 Angle is: 140.95
+Phase 2 Angle is: -99.47
+Phase 3 Angle is: 20.63
+Latitude 22.25 Longitude 84.90 12:09:51:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.19
+Phasor Magnitude for Phase 2 is: 216.97
+Phasor Magnitude for Phase 3 is: 218.89
+Phase 1 Angle is: 142.67
+Phase 2 Angle is: -97.75
+Phase 3 Angle is: 22.35
+Latitude 22.25 Longitude 84.90 12:09:51:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.34
+Phasor Magnitude for Phase 2 is: 217.12
+Phasor Magnitude for Phase 3 is: 218.86
+Phase 1 Angle is: 144.39
+Phase 2 Angle is: -96.03
+Phase 3 Angle is: 24.06
+Latitude 22.25 Longitude 84.90 12:09:51:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.42
+Phasor Magnitude for Phase 2 is: 216.98
+Phasor Magnitude for Phase 3 is: 218.82
+Phase 1 Angle is: 146.68
+Phase 2 Angle is: -93.74
+Phase 3 Angle is: 26.36
+Latitude 22.25 Longitude 84.90 12:09:51:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 217.05
+Phasor Magnitude for Phase 3 is: 218.65
+Phase 1 Angle is: 147.82
+Phase 2 Angle is: -92.02
+Phase 3 Angle is: 27.50
+Latitude 22.25 Longitude 84.90 12:09:51:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.50
+Phasor Magnitude for Phase 2 is: 217.10
+Phasor Magnitude for Phase 3 is: 218.70
+Phase 1 Angle is: 150.11
+Phase 2 Angle is: -90.30
+Phase 3 Angle is: 29.79
+Latitude 22.25 Longitude 84.90 12:09:51:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.43
+Phasor Magnitude for Phase 2 is: 217.02
+Phasor Magnitude for Phase 3 is: 218.60
+Phase 1 Angle is: 151.83
+Phase 2 Angle is: -88.58
+Phase 3 Angle is: 31.51
+Latitude 22.25 Longitude 84.90 12:09:51:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.58
+Phasor Magnitude for Phase 2 is: 216.67
+Phasor Magnitude for Phase 3 is: 218.79
+Phase 1 Angle is: 154.13
+Phase 2 Angle is: -86.29
+Phase 3 Angle is: 33.23
+Latitude 22.25 Longitude 84.90 12:09:51:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.98
+Phasor Magnitude for Phase 2 is: 216.34
+Phasor Magnitude for Phase 3 is: 218.76
+Phase 1 Angle is: 156.42
+Phase 2 Angle is: -83.42
+Phase 3 Angle is: 36.10
+Latitude 22.25 Longitude 84.90 12:09:52:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.92
+Phasor Magnitude for Phase 2 is: 216.57
+Phasor Magnitude for Phase 3 is: 218.50
+Phase 1 Angle is: 158.71
+Phase 2 Angle is: -81.70
+Phase 3 Angle is: 37.82
+Latitude 22.25 Longitude 84.90 12:09:52:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.22
+Phasor Magnitude for Phase 2 is: 216.25
+Phasor Magnitude for Phase 3 is: 218.44
+Phase 1 Angle is: 160.43
+Phase 2 Angle is: -79.98
+Phase 3 Angle is: 39.53
+Latitude 22.25 Longitude 84.90 12:09:52:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.16
+Phasor Magnitude for Phase 2 is: 217.01
+Phasor Magnitude for Phase 3 is: 218.40
+Phase 1 Angle is: 161.57
+Phase 2 Angle is: -78.84
+Phase 3 Angle is: 41.25
+Latitude 22.25 Longitude 84.90 12:09:52:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.82
+Phasor Magnitude for Phase 2 is: 217.12
+Phasor Magnitude for Phase 3 is: 218.28
+Phase 1 Angle is: 163.29
+Phase 2 Angle is: -76.55
+Phase 3 Angle is: 42.97
+Latitude 22.25 Longitude 84.90 12:09:52:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.82
+Phasor Magnitude for Phase 2 is: 217.23
+Phasor Magnitude for Phase 3 is: 218.21
+Phase 1 Angle is: 165.01
+Phase 2 Angle is: -74.83
+Phase 3 Angle is: 44.69
+Latitude 22.25 Longitude 84.90 12:09:52:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.09
+Phasor Magnitude for Phase 2 is: 217.14
+Phasor Magnitude for Phase 3 is: 218.26
+Phase 1 Angle is: 167.30
+Phase 2 Angle is: -73.11
+Phase 3 Angle is: 46.98
+Latitude 22.25 Longitude 84.90 12:09:52:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.28
+Phasor Magnitude for Phase 2 is: 217.06
+Phasor Magnitude for Phase 3 is: 217.97
+Phase 1 Angle is: 169.02
+Phase 2 Angle is: -71.39
+Phase 3 Angle is: 48.13
+Latitude 22.25 Longitude 84.90 12:09:52:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.08
+Phasor Magnitude for Phase 2 is: 217.22
+Phasor Magnitude for Phase 3 is: 218.30
+Phase 1 Angle is: 170.74
+Phase 2 Angle is: -69.67
+Phase 3 Angle is: 49.85
+Latitude 22.25 Longitude 84.90 12:09:52:402 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.02
+Phasor Magnitude for Phase 2 is: 217.18
+Phasor Magnitude for Phase 3 is: 218.03
+Phase 1 Angle is: 172.46
+Phase 2 Angle is: -67.38
+Phase 3 Angle is: 52.14
+Latitude 22.25 Longitude 84.90 12:09:52:442 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.14
+Phasor Magnitude for Phase 2 is: 217.32
+Phasor Magnitude for Phase 3 is: 217.91
+Phase 1 Angle is: 174.18
+Phase 2 Angle is: -65.66
+Phase 3 Angle is: 53.86
+Latitude 22.25 Longitude 84.90 12:09:52:482 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.30
+Phasor Magnitude for Phase 2 is: 217.19
+Phasor Magnitude for Phase 3 is: 218.03
+Phase 1 Angle is: 176.47
+Phase 2 Angle is: -63.94
+Phase 3 Angle is: 55.58
+Latitude 22.25 Longitude 84.90 12:09:52:522 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.13
+Phasor Magnitude for Phase 2 is: 217.64
+Phasor Magnitude for Phase 3 is: 217.68
+Phase 1 Angle is: 178.19
+Phase 2 Angle is: -61.65
+Phase 3 Angle is: 57.87
+Latitude 22.25 Longitude 84.90 12:09:52:562 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.98
+Phasor Magnitude for Phase 2 is: 217.39
+Phasor Magnitude for Phase 3 is: 217.72
+Phase 1 Angle is: -179.68
+Phase 2 Angle is: -59.93
+Phase 3 Angle is: 59.59
+Latitude 22.25 Longitude 84.90 12:09:52:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.15
+Phasor Magnitude for Phase 2 is: 217.43
+Phasor Magnitude for Phase 3 is: 217.71
+Phase 1 Angle is: -172.23
+Phase 2 Angle is: -52.48
+Phase 3 Angle is: 67.61
+Latitude 22.25 Longitude 84.90 12:09:52:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.09
+Phasor Magnitude for Phase 2 is: 217.50
+Phasor Magnitude for Phase 3 is: 217.34
+Phase 1 Angle is: -170.51
+Phase 2 Angle is: -50.19
+Phase 3 Angle is: 69.33
+Latitude 22.25 Longitude 84.90 12:09:52:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.15
+Phasor Magnitude for Phase 2 is: 217.59
+Phasor Magnitude for Phase 3 is: 217.27
+Phase 1 Angle is: -168.79
+Phase 2 Angle is: -48.47
+Phase 3 Angle is: 71.05
+Latitude 22.25 Longitude 84.90 12:09:52:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.04
+Phasor Magnitude for Phase 2 is: 217.76
+Phasor Magnitude for Phase 3 is: 217.62
+Phase 1 Angle is: -166.50
+Phase 2 Angle is: -46.75
+Phase 3 Angle is: 73.34
+Latitude 22.25 Longitude 84.90 12:09:52:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.23
+Phasor Magnitude for Phase 2 is: 217.64
+Phasor Magnitude for Phase 3 is: 217.20
+Phase 1 Angle is: -164.78
+Phase 2 Angle is: -44.46
+Phase 3 Angle is: 75.06
+Latitude 22.25 Longitude 84.90 12:09:52:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.05
+Phasor Magnitude for Phase 2 is: 217.94
+Phasor Magnitude for Phase 3 is: 217.35
+Phase 1 Angle is: -162.49
+Phase 2 Angle is: -42.17
+Phase 3 Angle is: 77.35
+Latitude 22.25 Longitude 84.90 12:09:52:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.05
+Phasor Magnitude for Phase 2 is: 217.99
+Phasor Magnitude for Phase 3 is: 217.18
+Phase 1 Angle is: -160.77
+Phase 2 Angle is: -40.45
+Phase 3 Angle is: 79.07
+Latitude 22.25 Longitude 84.90 12:09:52:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.13
+Phasor Magnitude for Phase 2 is: 218.16
+Phasor Magnitude for Phase 3 is: 217.21
+Phase 1 Angle is: -159.05
+Phase 2 Angle is: -38.73
+Phase 3 Angle is: 80.79
+Latitude 22.25 Longitude 84.90 12:09:52:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.13
+Phasor Magnitude for Phase 2 is: 217.93
+Phasor Magnitude for Phase 3 is: 216.60
+Phase 1 Angle is: -156.76
+Phase 2 Angle is: -35.87
+Phase 3 Angle is: 83.65
+Latitude 22.25 Longitude 84.90 12:09:53:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.25
+Phasor Magnitude for Phase 2 is: 218.21
+Phasor Magnitude for Phase 3 is: 216.29
+Phase 1 Angle is: -154.47
+Phase 2 Angle is: -34.15
+Phase 3 Angle is: 85.37
+Latitude 22.25 Longitude 84.90 12:09:53:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.05
+Phasor Magnitude for Phase 2 is: 218.44
+Phasor Magnitude for Phase 3 is: 216.64
+Phase 1 Angle is: -151.03
+Phase 2 Angle is: -30.71
+Phase 3 Angle is: 88.81
+Latitude 22.25 Longitude 84.90 12:09:53:163 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.70
+Phasor Magnitude for Phase 2 is: 218.23
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -149.89
+Phase 2 Angle is: -29.56
+Phase 3 Angle is: 90.53
+Latitude 22.25 Longitude 84.90 12:09:53:203 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.81
+Phasor Magnitude for Phase 2 is: 218.04
+Phasor Magnitude for Phase 3 is: 217.17
+Phase 1 Angle is: -148.17
+Phase 2 Angle is: -27.85
+Phase 3 Angle is: 91.67
+Latitude 22.25 Longitude 84.90 12:09:53:243 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.64
+Phasor Magnitude for Phase 2 is: 218.27
+Phasor Magnitude for Phase 3 is: 216.94
+Phase 1 Angle is: -146.45
+Phase 2 Angle is: -26.13
+Phase 3 Angle is: 93.97
+Latitude 22.25 Longitude 84.90 12:09:53:283 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.57
+Phasor Magnitude for Phase 2 is: 218.71
+Phasor Magnitude for Phase 3 is: 217.13
+Phase 1 Angle is: -144.16
+Phase 2 Angle is: -23.84
+Phase 3 Angle is: 95.68
+Latitude 22.25 Longitude 84.90 12:09:53:323 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 218.42
+Phasor Magnitude for Phase 3 is: 217.29
+Phase 1 Angle is: -142.44
+Phase 2 Angle is: -22.12
+Phase 3 Angle is: 97.40
+Latitude 22.25 Longitude 84.90 12:09:53:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.63
+Phasor Magnitude for Phase 2 is: 218.44
+Phasor Magnitude for Phase 3 is: 217.10
+Phase 1 Angle is: -140.72
+Phase 2 Angle is: -19.82
+Phase 3 Angle is: 99.69
+Latitude 22.25 Longitude 84.90 12:09:53:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.42
+Phasor Magnitude for Phase 2 is: 218.81
+Phasor Magnitude for Phase 3 is: 217.17
+Phase 1 Angle is: -139.00
+Phase 2 Angle is: -18.11
+Phase 3 Angle is: 101.41
+Latitude 22.25 Longitude 84.90 12:09:53:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.25
+Phasor Magnitude for Phase 2 is: 218.54
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -136.71
+Phase 2 Angle is: -16.39
+Phase 3 Angle is: 103.71
+Latitude 22.25 Longitude 84.90 12:09:53:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.34
+Phasor Magnitude for Phase 2 is: 218.67
+Phasor Magnitude for Phase 3 is: 217.04
+Phase 1 Angle is: -134.42
+Phase 2 Angle is: -14.09
+Phase 3 Angle is: 105.42
+Latitude 22.25 Longitude 84.90 12:09:53:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.09
+Phasor Magnitude for Phase 2 is: 218.71
+Phasor Magnitude for Phase 3 is: 217.25
+Phase 1 Angle is: -132.70
+Phase 2 Angle is: -12.38
+Phase 3 Angle is: 107.72
+Latitude 22.25 Longitude 84.90 12:09:53:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.08
+Phasor Magnitude for Phase 2 is: 218.81
+Phasor Magnitude for Phase 3 is: 217.29
+Phase 1 Angle is: -130.98
+Phase 2 Angle is: -11.23
+Phase 3 Angle is: 108.86
+Latitude 22.25 Longitude 84.90 12:09:53:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.13
+Phasor Magnitude for Phase 2 is: 218.58
+Phasor Magnitude for Phase 3 is: 217.50
+Phase 1 Angle is: -129.26
+Phase 2 Angle is: -8.94
+Phase 3 Angle is: 111.15
+Latitude 22.25 Longitude 84.90 12:09:53:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.99
+Phasor Magnitude for Phase 2 is: 218.74
+Phasor Magnitude for Phase 3 is: 217.26
+Phase 1 Angle is: -126.97
+Phase 2 Angle is: -6.65
+Phase 3 Angle is: 113.45
+Latitude 22.25 Longitude 84.90 12:09:53:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.96
+Phasor Magnitude for Phase 2 is: 219.07
+Phasor Magnitude for Phase 3 is: 217.48
+Phase 1 Angle is: -125.82
+Phase 2 Angle is: -5.50
+Phase 3 Angle is: 114.59
+Latitude 22.25 Longitude 84.90 12:09:53:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.53
+Phasor Magnitude for Phase 2 is: 218.82
+Phasor Magnitude for Phase 3 is: 217.29
+Phase 1 Angle is: -117.80
+Phase 2 Angle is: 2.29
+Phase 3 Angle is: 122.61
+Latitude 22.25 Longitude 84.90 12:09:53:884 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.86
+Phasor Magnitude for Phase 2 is: 218.94
+Phasor Magnitude for Phase 3 is: 217.52
+Phase 1 Angle is: -115.51
+Phase 2 Angle is: 4.58
+Phase 3 Angle is: 124.33
+Latitude 22.25 Longitude 84.90 12:09:53:924 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.60
+Phasor Magnitude for Phase 2 is: 218.94
+Phasor Magnitude for Phase 3 is: 217.63
+Phase 1 Angle is: -113.79
+Phase 2 Angle is: 6.30
+Phase 3 Angle is: 126.62
+Latitude 22.25 Longitude 84.90 12:09:53:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.85
+Phasor Magnitude for Phase 2 is: 218.82
+Phasor Magnitude for Phase 3 is: 217.67
+Phase 1 Angle is: -111.50
+Phase 2 Angle is: 8.59
+Phase 3 Angle is: 128.92
+Latitude 22.25 Longitude 84.90 12:09:53:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.24
+Phasor Magnitude for Phase 2 is: 219.33
+Phasor Magnitude for Phase 3 is: 217.63
+Phase 1 Angle is: -109.21
+Phase 2 Angle is: 10.31
+Phase 3 Angle is: 131.21
+Latitude 22.25 Longitude 84.90 12:09:53:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.91
+Phasor Magnitude for Phase 2 is: 219.14
+Phasor Magnitude for Phase 3 is: 217.87
+Phase 1 Angle is: -106.91
+Phase 2 Angle is: 13.18
+Phase 3 Angle is: 133.50
+Latitude 22.25 Longitude 84.90 12:09:54:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.01
+Phasor Magnitude for Phase 2 is: 219.23
+Phasor Magnitude for Phase 3 is: 217.88
+Phase 1 Angle is: -105.20
+Phase 2 Angle is: 14.90
+Phase 3 Angle is: 135.22
+Latitude 22.25 Longitude 84.90 12:09:54:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.69
+Phasor Magnitude for Phase 2 is: 219.13
+Phasor Magnitude for Phase 3 is: 217.96
+Phase 1 Angle is: -103.48
+Phase 2 Angle is: 16.62
+Phase 3 Angle is: 137.51
+Latitude 22.25 Longitude 84.90 12:09:54:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.25
+Phasor Magnitude for Phase 2 is: 218.99
+Phasor Magnitude for Phase 3 is: 218.06
+Phase 1 Angle is: -102.33
+Phase 2 Angle is: 17.76
+Phase 3 Angle is: 138.08
+Latitude 22.25 Longitude 84.90 12:09:54:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.36
+Phasor Magnitude for Phase 2 is: 218.70
+Phasor Magnitude for Phase 3 is: 218.14
+Phase 1 Angle is: -100.61
+Phase 2 Angle is: 19.48
+Phase 3 Angle is: 139.80
+Latitude 22.25 Longitude 84.90 12:09:54:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.38
+Phasor Magnitude for Phase 2 is: 218.68
+Phasor Magnitude for Phase 3 is: 218.43
+Phase 1 Angle is: -98.89
+Phase 2 Angle is: 21.20
+Phase 3 Angle is: 141.52
+Latitude 22.25 Longitude 84.90 12:09:54:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.32
+Phasor Magnitude for Phase 2 is: 218.58
+Phasor Magnitude for Phase 3 is: 218.05
+Phase 1 Angle is: -96.60
+Phase 2 Angle is: 22.92
+Phase 3 Angle is: 143.24
+Latitude 22.25 Longitude 84.90 12:09:54:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.35
+Phasor Magnitude for Phase 2 is: 218.61
+Phasor Magnitude for Phase 3 is: 218.23
+Phase 1 Angle is: -94.88
+Phase 2 Angle is: 25.21
+Phase 3 Angle is: 145.53
+Latitude 22.25 Longitude 84.90 12:09:54:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.20
+Phasor Magnitude for Phase 2 is: 218.44
+Phasor Magnitude for Phase 3 is: 218.44
+Phase 1 Angle is: -92.59
+Phase 2 Angle is: 26.93
+Phase 3 Angle is: 147.25
+Latitude 22.25 Longitude 84.90 12:09:54:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.31
+Phasor Magnitude for Phase 2 is: 218.66
+Phasor Magnitude for Phase 3 is: 218.26
+Phase 1 Angle is: -90.87
+Phase 2 Angle is: 29.22
+Phase 3 Angle is: 149.54
+Latitude 22.25 Longitude 84.90 12:09:54:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.06
+Phasor Magnitude for Phase 2 is: 218.57
+Phasor Magnitude for Phase 3 is: 218.39
+Phase 1 Angle is: -89.15
+Phase 2 Angle is: 30.94
+Phase 3 Angle is: 151.26
+Latitude 22.25 Longitude 84.90 12:09:54:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.07
+Phasor Magnitude for Phase 2 is: 218.36
+Phasor Magnitude for Phase 3 is: 218.38
+Phase 1 Angle is: -87.43
+Phase 2 Angle is: 32.66
+Phase 3 Angle is: 152.98
+Latitude 22.25 Longitude 84.90 12:09:54:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.11
+Phasor Magnitude for Phase 2 is: 218.12
+Phasor Magnitude for Phase 3 is: 218.53
+Phase 1 Angle is: -85.14
+Phase 2 Angle is: 34.38
+Phase 3 Angle is: 154.70
+Latitude 22.25 Longitude 84.90 12:09:54:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.40
+Phasor Magnitude for Phase 2 is: 218.45
+Phasor Magnitude for Phase 3 is: 218.92
+Phase 1 Angle is: -82.85
+Phase 2 Angle is: 36.67
+Phase 3 Angle is: 156.99
+Latitude 22.25 Longitude 84.90 12:09:54:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.10
+Phasor Magnitude for Phase 2 is: 218.16
+Phasor Magnitude for Phase 3 is: 218.69
+Phase 1 Angle is: -81.13
+Phase 2 Angle is: 38.39
+Phase 3 Angle is: 159.28
+Latitude 22.25 Longitude 84.90 12:09:54:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.14
+Phasor Magnitude for Phase 2 is: 218.06
+Phasor Magnitude for Phase 3 is: 218.68
+Phase 1 Angle is: -79.41
+Phase 2 Angle is: 40.11
+Phase 3 Angle is: 160.43
+Latitude 22.25 Longitude 84.90 12:09:54:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.21
+Phasor Magnitude for Phase 2 is: 218.20
+Phasor Magnitude for Phase 3 is: 218.94
+Phase 1 Angle is: -77.12
+Phase 2 Angle is: 42.40
+Phase 3 Angle is: 162.72
+Latitude 22.25 Longitude 84.90 12:09:54:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.36
+Phasor Magnitude for Phase 2 is: 218.20
+Phasor Magnitude for Phase 3 is: 218.90
+Phase 1 Angle is: -75.40
+Phase 2 Angle is: 44.12
+Phase 3 Angle is: 164.44
+Latitude 22.25 Longitude 84.90 12:09:54:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.33
+Phasor Magnitude for Phase 2 is: 218.04
+Phasor Magnitude for Phase 3 is: 218.82
+Phase 1 Angle is: -73.68
+Phase 2 Angle is: 45.84
+Phase 3 Angle is: 166.16
+Latitude 22.25 Longitude 84.90 12:09:54:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.24
+Phasor Magnitude for Phase 2 is: 217.85
+Phasor Magnitude for Phase 3 is: 218.93
+Phase 1 Angle is: -71.39
+Phase 2 Angle is: 48.13
+Phase 3 Angle is: 168.45
+Latitude 22.25 Longitude 84.90 12:09:54:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.38
+Phasor Magnitude for Phase 2 is: 217.60
+Phasor Magnitude for Phase 3 is: 219.23
+Phase 1 Angle is: -63.94
+Phase 2 Angle is: 55.58
+Phase 3 Angle is: 175.90
+Latitude 22.25 Longitude 84.90 12:09:54:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.05
+Phasor Magnitude for Phase 2 is: 217.16
+Phasor Magnitude for Phase 3 is: 219.59
+Phase 1 Angle is: -61.08
+Phase 2 Angle is: 57.87
+Phase 3 Angle is: 178.76
+Latitude 22.25 Longitude 84.90 12:09:54:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.12
+Phasor Magnitude for Phase 2 is: 217.20
+Phasor Magnitude for Phase 3 is: 219.46
+Phase 1 Angle is: -58.79
+Phase 2 Angle is: 60.16
+Phase 3 Angle is: -179.11
+Latitude 22.25 Longitude 84.90 12:09:54:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.43
+Phasor Magnitude for Phase 2 is: 217.28
+Phasor Magnitude for Phase 3 is: 219.72
+Phase 1 Angle is: -55.92
+Phase 2 Angle is: 63.60
+Phase 3 Angle is: -176.24
+Latitude 22.25 Longitude 84.90 12:09:55:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.48
+Phasor Magnitude for Phase 2 is: 216.76
+Phasor Magnitude for Phase 3 is: 219.51
+Phase 1 Angle is: -53.63
+Phase 2 Angle is: 65.89
+Phase 3 Angle is: -173.95
+Latitude 22.25 Longitude 84.90 12:09:55:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.70
+Phasor Magnitude for Phase 2 is: 217.51
+Phasor Magnitude for Phase 3 is: 219.19
+Phase 1 Angle is: -53.06
+Phase 2 Angle is: 66.46
+Phase 3 Angle is: -173.38
+Latitude 22.25 Longitude 84.90 12:09:55:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.91
+Phasor Magnitude for Phase 2 is: 217.30
+Phasor Magnitude for Phase 3 is: 219.13
+Phase 1 Angle is: -50.76
+Phase 2 Angle is: 68.75
+Phase 3 Angle is: -171.09
+Latitude 22.25 Longitude 84.90 12:09:55:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.87
+Phasor Magnitude for Phase 2 is: 217.24
+Phasor Magnitude for Phase 3 is: 219.02
+Phase 1 Angle is: -48.47
+Phase 2 Angle is: 71.05
+Phase 3 Angle is: -169.37
+Latitude 22.25 Longitude 84.90 12:09:55:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.13
+Phasor Magnitude for Phase 2 is: 217.11
+Phasor Magnitude for Phase 3 is: 218.76
+Phase 1 Angle is: -46.75
+Phase 2 Angle is: 72.77
+Phase 3 Angle is: -167.07
+Latitude 22.25 Longitude 84.90 12:09:55:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.16
+Phasor Magnitude for Phase 2 is: 217.18
+Phasor Magnitude for Phase 3 is: 218.98
+Phase 1 Angle is: -45.03
+Phase 2 Angle is: 73.91
+Phase 3 Angle is: -165.93
+Latitude 22.25 Longitude 84.90 12:09:55:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.89
+Phasor Magnitude for Phase 2 is: 216.89
+Phasor Magnitude for Phase 3 is: 219.19
+Phase 1 Angle is: -43.32
+Phase 2 Angle is: 76.78
+Phase 3 Angle is: -163.64
+Latitude 22.25 Longitude 84.90 12:09:55:402 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.18
+Phasor Magnitude for Phase 2 is: 216.99
+Phasor Magnitude for Phase 3 is: 218.84
+Phase 1 Angle is: -41.60
+Phase 2 Angle is: 77.92
+Phase 3 Angle is: -161.92
+Latitude 22.25 Longitude 84.90 12:09:55:442 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.25
+Phasor Magnitude for Phase 2 is: 216.94
+Phasor Magnitude for Phase 3 is: 218.98
+Phase 1 Angle is: -39.30
+Phase 2 Angle is: 80.21
+Phase 3 Angle is: -159.63
+Latitude 22.25 Longitude 84.90 12:09:55:482 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 216.83
+Phasor Magnitude for Phase 3 is: 218.70
+Phase 1 Angle is: -37.59
+Phase 2 Angle is: 81.93
+Phase 3 Angle is: -157.91
+Latitude 22.25 Longitude 84.90 12:09:55:522 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.35
+Phasor Magnitude for Phase 2 is: 217.02
+Phasor Magnitude for Phase 3 is: 218.99
+Phase 1 Angle is: -35.87
+Phase 2 Angle is: 84.22
+Phase 3 Angle is: -156.19
+Latitude 22.25 Longitude 84.90 12:09:55:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.29
+Phasor Magnitude for Phase 2 is: 216.94
+Phasor Magnitude for Phase 3 is: 218.82
+Phase 1 Angle is: -34.15
+Phase 2 Angle is: 85.94
+Phase 3 Angle is: -154.47
+Latitude 22.25 Longitude 84.90 12:09:55:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.42
+Phasor Magnitude for Phase 2 is: 216.99
+Phasor Magnitude for Phase 3 is: 218.91
+Phase 1 Angle is: -31.86
+Phase 2 Angle is: 87.66
+Phase 3 Angle is: -152.18
+Latitude 22.25 Longitude 84.90 12:09:55:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 216.93
+Phasor Magnitude for Phase 3 is: 218.97
+Phase 1 Angle is: -30.14
+Phase 2 Angle is: 89.95
+Phase 3 Angle is: -150.46
+Latitude 22.25 Longitude 84.90 12:09:55:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.60
+Phasor Magnitude for Phase 2 is: 217.18
+Phasor Magnitude for Phase 3 is: 218.73
+Phase 1 Angle is: -28.42
+Phase 2 Angle is: 91.67
+Phase 3 Angle is: -148.74
+Latitude 22.25 Longitude 84.90 12:09:55:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 216.83
+Phasor Magnitude for Phase 3 is: 218.55
+Phase 1 Angle is: -26.13
+Phase 2 Angle is: 93.39
+Phase 3 Angle is: -146.45
+Latitude 22.25 Longitude 84.90 12:09:55:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.95
+Phasor Magnitude for Phase 2 is: 217.02
+Phasor Magnitude for Phase 3 is: 218.59
+Phase 1 Angle is: -24.41
+Phase 2 Angle is: 95.68
+Phase 3 Angle is: -144.73
+Latitude 22.25 Longitude 84.90 12:09:55:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.66
+Phasor Magnitude for Phase 2 is: 217.13
+Phasor Magnitude for Phase 3 is: 218.39
+Phase 1 Angle is: -22.69
+Phase 2 Angle is: 97.40
+Phase 3 Angle is: -143.01
+Latitude 22.25 Longitude 84.90 12:09:55:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.97
+Phasor Magnitude for Phase 2 is: 216.89
+Phasor Magnitude for Phase 3 is: 218.68
+Phase 1 Angle is: -20.40
+Phase 2 Angle is: 99.12
+Phase 3 Angle is: -141.29
+Latitude 22.25 Longitude 84.90 12:09:55:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.77
+Phasor Magnitude for Phase 2 is: 216.87
+Phasor Magnitude for Phase 3 is: 218.40
+Phase 1 Angle is: -18.68
+Phase 2 Angle is: 100.84
+Phase 3 Angle is: -139.00
+Latitude 22.25 Longitude 84.90 12:09:55:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.98
+Phasor Magnitude for Phase 2 is: 216.88
+Phasor Magnitude for Phase 3 is: 218.41
+Phase 1 Angle is: -16.96
+Phase 2 Angle is: 102.56
+Phase 3 Angle is: -137.85
+Latitude 22.25 Longitude 84.90 12:09:55:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.74
+Phasor Magnitude for Phase 2 is: 217.28
+Phasor Magnitude for Phase 3 is: 218.20
+Phase 1 Angle is: -15.24
+Phase 2 Angle is: 104.85
+Phase 3 Angle is: -135.56
+Latitude 22.25 Longitude 84.90 12:09:55:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.46
+Phasor Magnitude for Phase 2 is: 216.60
+Phasor Magnitude for Phase 3 is: 217.94
+Phase 1 Angle is: -8.37
+Phase 2 Angle is: 111.73
+Phase 3 Angle is: -128.69
+Latitude 22.25 Longitude 84.90 12:09:56:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.04
+Phasor Magnitude for Phase 2 is: 216.61
+Phasor Magnitude for Phase 3 is: 217.87
+Phase 1 Angle is: -6.65
+Phase 2 Angle is: 113.45
+Phase 3 Angle is: -126.97
+Latitude 22.25 Longitude 84.90 12:09:56:163 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.09
+Phasor Magnitude for Phase 2 is: 217.04
+Phasor Magnitude for Phase 3 is: 218.00
+Phase 1 Angle is: -5.50
+Phase 2 Angle is: 114.59
+Phase 3 Angle is: -125.82
+Latitude 22.25 Longitude 84.90 12:09:56:203 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.11
+Phasor Magnitude for Phase 2 is: 217.14
+Phasor Magnitude for Phase 3 is: 217.53
+Phase 1 Angle is: -3.78
+Phase 2 Angle is: 116.31
+Phase 3 Angle is: -124.10
+Latitude 22.25 Longitude 84.90 12:09:56:243 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.10
+Phasor Magnitude for Phase 2 is: 217.39
+Phasor Magnitude for Phase 3 is: 217.92
+Phase 1 Angle is: -1.49
+Phase 2 Angle is: 118.03
+Phase 3 Angle is: -121.81
+Latitude 22.25 Longitude 84.90 12:09:56:283 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.96
+Phasor Magnitude for Phase 2 is: 217.26
+Phasor Magnitude for Phase 3 is: 217.78
+Phase 1 Angle is: 0.00
+Phase 2 Angle is: 120.32
+Phase 3 Angle is: -120.09
+Latitude 22.25 Longitude 84.90 12:09:56:323 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.17
+Phasor Magnitude for Phase 2 is: 217.17
+Phasor Magnitude for Phase 3 is: 217.66
+Phase 1 Angle is: 2.29
+Phase 2 Angle is: 122.04
+Phase 3 Angle is: -118.37
+Latitude 22.25 Longitude 84.90 12:09:56:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.03
+Phasor Magnitude for Phase 2 is: 217.38
+Phasor Magnitude for Phase 3 is: 217.56
+Phase 1 Angle is: 3.44
+Phase 2 Angle is: 123.76
+Phase 3 Angle is: -116.65
+Latitude 22.25 Longitude 84.90 12:09:56:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.07
+Phasor Magnitude for Phase 2 is: 217.50
+Phasor Magnitude for Phase 3 is: 217.52
+Phase 1 Angle is: 5.73
+Phase 2 Angle is: 126.05
+Phase 3 Angle is: -114.94
+Latitude 22.25 Longitude 84.90 12:09:56:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.03
+Phasor Magnitude for Phase 2 is: 217.45
+Phasor Magnitude for Phase 3 is: 217.87
+Phase 1 Angle is: 7.45
+Phase 2 Angle is: 127.77
+Phase 3 Angle is: -113.22
+Latitude 22.25 Longitude 84.90 12:09:56:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.28
+Phasor Magnitude for Phase 2 is: 217.45
+Phasor Magnitude for Phase 3 is: 217.35
+Phase 1 Angle is: 9.17
+Phase 2 Angle is: 129.49
+Phase 3 Angle is: -110.92
+Latitude 22.25 Longitude 84.90 12:09:56:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.18
+Phasor Magnitude for Phase 2 is: 217.64
+Phasor Magnitude for Phase 3 is: 217.51
+Phase 1 Angle is: 10.89
+Phase 2 Angle is: 131.21
+Phase 3 Angle is: -109.21
+Latitude 22.25 Longitude 84.90 12:09:56:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.96
+Phasor Magnitude for Phase 2 is: 217.56
+Phasor Magnitude for Phase 3 is: 217.38
+Phase 1 Angle is: 13.18
+Phase 2 Angle is: 133.50
+Phase 3 Angle is: -106.91
+Latitude 22.25 Longitude 84.90 12:09:56:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.22
+Phasor Magnitude for Phase 2 is: 217.75
+Phasor Magnitude for Phase 3 is: 217.39
+Phase 1 Angle is: 14.90
+Phase 2 Angle is: 135.22
+Phase 3 Angle is: -105.20
+Latitude 22.25 Longitude 84.90 12:09:56:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.96
+Phasor Magnitude for Phase 2 is: 217.71
+Phasor Magnitude for Phase 3 is: 217.49
+Phase 1 Angle is: 16.62
+Phase 2 Angle is: 136.94
+Phase 3 Angle is: -103.48
+Latitude 22.25 Longitude 84.90 12:09:56:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.20
+Phasor Magnitude for Phase 2 is: 217.83
+Phasor Magnitude for Phase 3 is: 217.20
+Phase 1 Angle is: 18.33
+Phase 2 Angle is: 139.23
+Phase 3 Angle is: -101.18
+Latitude 22.25 Longitude 84.90 12:09:56:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.05
+Phasor Magnitude for Phase 2 is: 217.89
+Phasor Magnitude for Phase 3 is: 217.49
+Phase 1 Angle is: 20.63
+Phase 2 Angle is: 140.95
+Phase 3 Angle is: -99.47
+Latitude 22.25 Longitude 84.90 12:09:56:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.67
+Phasor Magnitude for Phase 2 is: 217.93
+Phasor Magnitude for Phase 3 is: 217.28
+Phase 1 Angle is: 22.35
+Phase 2 Angle is: 142.67
+Phase 3 Angle is: -97.75
+Latitude 22.25 Longitude 84.90 12:09:56:804 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.90
+Phasor Magnitude for Phase 2 is: 218.06
+Phasor Magnitude for Phase 3 is: 217.05
+Phase 1 Angle is: 24.64
+Phase 2 Angle is: 144.96
+Phase 3 Angle is: -95.45
+Latitude 22.25 Longitude 84.90 12:09:56:844 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.74
+Phasor Magnitude for Phase 2 is: 218.16
+Phasor Magnitude for Phase 3 is: 217.18
+Phase 1 Angle is: 26.36
+Phase 2 Angle is: 146.68
+Phase 3 Angle is: -93.74
+Latitude 22.25 Longitude 84.90 12:09:56:884 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.67
+Phasor Magnitude for Phase 2 is: 218.20
+Phasor Magnitude for Phase 3 is: 217.12
+Phase 1 Angle is: 28.07
+Phase 2 Angle is: 148.40
+Phase 3 Angle is: -92.02
+Latitude 22.25 Longitude 84.90 12:09:56:924 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.63
+Phasor Magnitude for Phase 2 is: 218.23
+Phasor Magnitude for Phase 3 is: 217.18
+Phase 1 Angle is: 29.79
+Phase 2 Angle is: 150.11
+Phase 3 Angle is: -89.73
+Latitude 22.25 Longitude 84.90 12:09:56:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.03
+Phasor Magnitude for Phase 2 is: 218.31
+Phasor Magnitude for Phase 3 is: 217.18
+Phase 1 Angle is: 32.09
+Phase 2 Angle is: 152.41
+Phase 3 Angle is: -88.01
+Latitude 22.25 Longitude 84.90 12:09:56:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.62
+Phasor Magnitude for Phase 2 is: 218.55
+Phasor Magnitude for Phase 3 is: 216.37
+Phase 1 Angle is: 34.38
+Phase 2 Angle is: 155.27
+Phase 3 Angle is: -85.14
+Latitude 22.25 Longitude 84.90 12:09:56:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.54
+Phasor Magnitude for Phase 2 is: 218.75
+Phasor Magnitude for Phase 3 is: 216.59
+Phase 1 Angle is: 38.39
+Phase 2 Angle is: 159.28
+Phase 3 Angle is: -81.70
+Latitude 22.25 Longitude 84.90 12:09:56:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.38
+Phasor Magnitude for Phase 2 is: 218.72
+Phasor Magnitude for Phase 3 is: 217.54
+Phase 1 Angle is: 42.97
+Phase 2 Angle is: 163.29
+Phase 3 Angle is: -76.55
+Latitude 22.25 Longitude 84.90 12:09:57:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.23
+Phasor Magnitude for Phase 2 is: 218.58
+Phasor Magnitude for Phase 3 is: 217.37
+Phase 1 Angle is: 45.26
+Phase 2 Angle is: 165.58
+Phase 3 Angle is: -74.26
+Latitude 22.25 Longitude 84.90 12:09:57:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.19
+Phasor Magnitude for Phase 2 is: 218.70
+Phasor Magnitude for Phase 3 is: 217.12
+Phase 1 Angle is: 46.98
+Phase 2 Angle is: 167.30
+Phase 3 Angle is: -72.54
+Latitude 22.25 Longitude 84.90 12:09:57:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.20
+Phasor Magnitude for Phase 2 is: 218.75
+Phasor Magnitude for Phase 3 is: 217.37
+Phase 1 Angle is: 48.70
+Phase 2 Angle is: 169.02
+Phase 3 Angle is: -70.82
+Latitude 22.25 Longitude 84.90 12:09:57:323 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.11
+Phasor Magnitude for Phase 2 is: 218.69
+Phasor Magnitude for Phase 3 is: 217.41
+Phase 1 Angle is: 50.42
+Phase 2 Angle is: 170.74
+Phase 3 Angle is: -69.10
+Latitude 22.25 Longitude 84.90 12:09:57:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.13
+Phasor Magnitude for Phase 2 is: 218.83
+Phasor Magnitude for Phase 3 is: 217.34
+Phase 1 Angle is: 52.71
+Phase 2 Angle is: 173.03
+Phase 3 Angle is: -66.81
+Latitude 22.25 Longitude 84.90 12:09:57:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.87
+Phasor Magnitude for Phase 2 is: 218.82
+Phasor Magnitude for Phase 3 is: 217.34
+Phase 1 Angle is: 54.43
+Phase 2 Angle is: 174.75
+Phase 3 Angle is: -65.09
+Latitude 22.25 Longitude 84.90 12:09:57:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.82
+Phasor Magnitude for Phase 2 is: 218.83
+Phasor Magnitude for Phase 3 is: 217.61
+Phase 1 Angle is: 56.72
+Phase 2 Angle is: 177.04
+Phase 3 Angle is: -63.37
+Latitude 22.25 Longitude 84.90 12:09:57:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.89
+Phasor Magnitude for Phase 2 is: 218.70
+Phasor Magnitude for Phase 3 is: 217.53
+Phase 1 Angle is: 58.44
+Phase 2 Angle is: 178.76
+Phase 3 Angle is: -61.08
+Latitude 22.25 Longitude 84.90 12:09:57:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.72
+Phasor Magnitude for Phase 2 is: 218.69
+Phasor Magnitude for Phase 3 is: 217.73
+Phase 1 Angle is: 60.16
+Phase 2 Angle is: -179.68
+Phase 3 Angle is: -59.36
+Latitude 22.25 Longitude 84.90 12:09:57:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.43
+Phasor Magnitude for Phase 2 is: 218.61
+Phasor Magnitude for Phase 3 is: 217.48
+Phase 1 Angle is: 62.45
+Phase 2 Angle is: -177.39
+Phase 3 Angle is: -57.07
+Latitude 22.25 Longitude 84.90 12:09:57:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.54
+Phasor Magnitude for Phase 2 is: 218.64
+Phasor Magnitude for Phase 3 is: 217.87
+Phase 1 Angle is: 64.17
+Phase 2 Angle is: -175.67
+Phase 3 Angle is: -55.92
+Latitude 22.25 Longitude 84.90 12:09:57:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.65
+Phasor Magnitude for Phase 2 is: 218.63
+Phasor Magnitude for Phase 3 is: 217.49
+Phase 1 Angle is: 65.89
+Phase 2 Angle is: -173.95
+Phase 3 Angle is: -53.63
+Latitude 22.25 Longitude 84.90 12:09:57:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.50
+Phasor Magnitude for Phase 2 is: 218.87
+Phasor Magnitude for Phase 3 is: 217.82
+Phase 1 Angle is: 67.61
+Phase 2 Angle is: -172.23
+Phase 3 Angle is: -51.91
+Latitude 22.25 Longitude 84.90 12:09:57:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.36
+Phasor Magnitude for Phase 2 is: 218.84
+Phasor Magnitude for Phase 3 is: 217.76
+Phase 1 Angle is: 69.90
+Phase 2 Angle is: -169.94
+Phase 3 Angle is: -49.62
+Latitude 22.25 Longitude 84.90 12:09:57:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.37
+Phasor Magnitude for Phase 2 is: 218.73
+Phasor Magnitude for Phase 3 is: 217.58
+Phase 1 Angle is: 71.62
+Phase 2 Angle is: -168.22
+Phase 3 Angle is: -47.90
+Latitude 22.25 Longitude 84.90 12:09:57:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.38
+Phasor Magnitude for Phase 2 is: 218.78
+Phasor Magnitude for Phase 3 is: 218.07
+Phase 1 Angle is: 73.34
+Phase 2 Angle is: -166.50
+Phase 3 Angle is: -46.18
+Latitude 22.25 Longitude 84.90 12:09:57:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.57
+Phasor Magnitude for Phase 2 is: 218.89
+Phasor Magnitude for Phase 3 is: 218.17
+Phase 1 Angle is: 75.63
+Phase 2 Angle is: -164.78
+Phase 3 Angle is: -44.46
+Latitude 22.25 Longitude 84.90 12:09:57:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.40
+Phasor Magnitude for Phase 2 is: 219.13
+Phasor Magnitude for Phase 3 is: 217.97
+Phase 1 Angle is: 77.35
+Phase 2 Angle is: -162.49
+Phase 3 Angle is: -42.17
+Latitude 22.25 Longitude 84.90 12:09:57:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.19
+Phasor Magnitude for Phase 2 is: 218.72
+Phasor Magnitude for Phase 3 is: 218.34
+Phase 1 Angle is: 79.64
+Phase 2 Angle is: -160.77
+Phase 3 Angle is: -40.45
+Latitude 22.25 Longitude 84.90 12:09:57:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.27
+Phasor Magnitude for Phase 2 is: 218.69
+Phasor Magnitude for Phase 3 is: 218.48
+Phase 1 Angle is: 81.36
+Phase 2 Angle is: -159.05
+Phase 3 Angle is: -38.16
+Latitude 22.25 Longitude 84.90 12:09:57:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.52
+Phasor Magnitude for Phase 2 is: 218.94
+Phasor Magnitude for Phase 3 is: 218.29
+Phase 1 Angle is: 83.65
+Phase 2 Angle is: -156.76
+Phase 3 Angle is: -35.87
+Latitude 22.25 Longitude 84.90 12:09:57:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.58
+Phasor Magnitude for Phase 2 is: 218.92
+Phasor Magnitude for Phase 3 is: 218.43
+Phase 1 Angle is: 85.94
+Phase 2 Angle is: -154.47
+Phase 3 Angle is: -33.58
+Latitude 22.25 Longitude 84.90 12:09:57:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.57
+Phasor Magnitude for Phase 2 is: 218.72
+Phasor Magnitude for Phase 3 is: 218.62
+Phase 1 Angle is: 88.24
+Phase 2 Angle is: -152.18
+Phase 3 Angle is: -31.86
+Latitude 22.25 Longitude 84.90 12:09:58:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.17
+Phasor Magnitude for Phase 2 is: 218.19
+Phasor Magnitude for Phase 3 is: 218.56
+Phase 1 Angle is: 94.54
+Phase 2 Angle is: -145.88
+Phase 3 Angle is: -25.55
+Latitude 22.25 Longitude 84.90 12:09:58:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.44
+Phasor Magnitude for Phase 2 is: 218.27
+Phasor Magnitude for Phase 3 is: 218.57
+Phase 1 Angle is: 96.26
+Phase 2 Angle is: -144.16
+Phase 3 Angle is: -23.84
+Latitude 22.25 Longitude 84.90 12:09:58:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 216.99
+Phasor Magnitude for Phase 2 is: 218.45
+Phasor Magnitude for Phase 3 is: 218.76
+Phase 1 Angle is: 98.55
+Phase 2 Angle is: -141.86
+Phase 3 Angle is: -21.54
+Latitude 22.25 Longitude 84.90 12:09:58:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.00
+Phasor Magnitude for Phase 2 is: 218.31
+Phasor Magnitude for Phase 3 is: 218.67
+Phase 1 Angle is: 100.27
+Phase 2 Angle is: -140.15
+Phase 3 Angle is: -19.82
+Latitude 22.25 Longitude 84.90 12:09:58:402 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.04
+Phasor Magnitude for Phase 2 is: 218.12
+Phasor Magnitude for Phase 3 is: 218.82
+Phase 1 Angle is: 101.99
+Phase 2 Angle is: -138.43
+Phase 3 Angle is: -18.11
+Latitude 22.25 Longitude 84.90 12:09:58:442 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.16
+Phasor Magnitude for Phase 2 is: 218.31
+Phasor Magnitude for Phase 3 is: 219.08
+Phase 1 Angle is: 104.28
+Phase 2 Angle is: -136.13
+Phase 3 Angle is: -15.81
+Latitude 22.25 Longitude 84.90 12:09:58:482 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.30
+Phasor Magnitude for Phase 2 is: 218.10
+Phasor Magnitude for Phase 3 is: 218.73
+Phase 1 Angle is: 106.00
+Phase 2 Angle is: -134.42
+Phase 3 Angle is: -14.09
+Latitude 22.25 Longitude 84.90 12:09:58:522 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.29
+Phasor Magnitude for Phase 2 is: 217.99
+Phasor Magnitude for Phase 3 is: 218.99
+Phase 1 Angle is: 108.29
+Phase 2 Angle is: -132.12
+Phase 3 Angle is: -11.80
+Latitude 22.25 Longitude 84.90 12:09:58:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.26
+Phasor Magnitude for Phase 2 is: 217.82
+Phasor Magnitude for Phase 3 is: 219.06
+Phase 1 Angle is: 110.01
+Phase 2 Angle is: -130.41
+Phase 3 Angle is: -10.08
+Latitude 22.25 Longitude 84.90 12:09:58:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.53
+Phasor Magnitude for Phase 2 is: 217.74
+Phasor Magnitude for Phase 3 is: 218.98
+Phase 1 Angle is: 112.30
+Phase 2 Angle is: -128.69
+Phase 3 Angle is: -7.79
+Latitude 22.25 Longitude 84.90 12:09:58:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.32
+Phasor Magnitude for Phase 2 is: 217.86
+Phasor Magnitude for Phase 3 is: 218.96
+Phase 1 Angle is: 114.02
+Phase 2 Angle is: -126.39
+Phase 3 Angle is: -6.07
+Latitude 22.25 Longitude 84.90 12:09:58:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.19
+Phasor Magnitude for Phase 2 is: 217.64
+Phasor Magnitude for Phase 3 is: 219.03
+Phase 1 Angle is: 115.74
+Phase 2 Angle is: -124.68
+Phase 3 Angle is: -4.35
+Latitude 22.25 Longitude 84.90 12:09:58:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.18
+Phasor Magnitude for Phase 2 is: 217.64
+Phasor Magnitude for Phase 3 is: 219.23
+Phase 1 Angle is: 117.46
+Phase 2 Angle is: -122.96
+Phase 3 Angle is: -2.64
+Latitude 22.25 Longitude 84.90 12:09:58:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.70
+Phasor Magnitude for Phase 2 is: 217.54
+Phasor Magnitude for Phase 3 is: 219.01
+Phase 1 Angle is: 119.75
+Phase 2 Angle is: -120.66
+Phase 3 Angle is: -0.34
+Latitude 22.25 Longitude 84.90 12:09:58:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.46
+Phasor Magnitude for Phase 2 is: 217.51
+Phasor Magnitude for Phase 3 is: 219.07
+Phase 1 Angle is: 121.47
+Phase 2 Angle is: -118.95
+Phase 3 Angle is: 1.15
+Latitude 22.25 Longitude 84.90 12:09:58:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.49
+Phasor Magnitude for Phase 2 is: 217.33
+Phasor Magnitude for Phase 3 is: 219.25
+Phase 1 Angle is: 123.19
+Phase 2 Angle is: -117.23
+Phase 3 Angle is: 2.86
+Latitude 22.25 Longitude 84.90 12:09:58:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.84
+Phasor Magnitude for Phase 2 is: 217.39
+Phasor Magnitude for Phase 3 is: 218.88
+Phase 1 Angle is: 125.48
+Phase 2 Angle is: -114.94
+Phase 3 Angle is: 5.16
+Latitude 22.25 Longitude 84.90 12:09:58:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.78
+Phasor Magnitude for Phase 2 is: 217.43
+Phasor Magnitude for Phase 3 is: 219.20
+Phase 1 Angle is: 127.20
+Phase 2 Angle is: -113.22
+Phase 3 Angle is: 6.88
+Latitude 22.25 Longitude 84.90 12:09:58:963 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.84
+Phasor Magnitude for Phase 2 is: 217.43
+Phasor Magnitude for Phase 3 is: 219.31
+Phase 1 Angle is: 129.49
+Phase 2 Angle is: -110.92
+Phase 3 Angle is: 9.17
+Latitude 22.25 Longitude 84.90 12:09:58:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.88
+Phasor Magnitude for Phase 2 is: 216.67
+Phasor Magnitude for Phase 3 is: 219.56
+Phase 1 Angle is: 133.50
+Phase 2 Angle is: -107.49
+Phase 3 Angle is: 12.61
+Latitude 22.25 Longitude 84.90 12:09:58:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.81
+Phasor Magnitude for Phase 2 is: 216.57
+Phasor Magnitude for Phase 3 is: 219.75
+Phase 1 Angle is: 135.79
+Phase 2 Angle is: -104.62
+Phase 3 Angle is: 15.47
+Latitude 22.25 Longitude 84.90 12:09:58:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.95
+Phasor Magnitude for Phase 2 is: 216.68
+Phasor Magnitude for Phase 3 is: 219.31
+Phase 1 Angle is: 137.51
+Phase 2 Angle is: -102.90
+Phase 3 Angle is: 17.19
+Latitude 22.25 Longitude 84.90 12:09:59:123 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.18
+Phasor Magnitude for Phase 2 is: 216.61
+Phasor Magnitude for Phase 3 is: 219.37
+Phase 1 Angle is: 139.23
+Phase 2 Angle is: -101.18
+Phase 3 Angle is: 18.91
+Latitude 22.25 Longitude 84.90 12:09:59:163 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.29
+Phasor Magnitude for Phase 2 is: 217.11
+Phasor Magnitude for Phase 3 is: 219.01
+Phase 1 Angle is: 140.37
+Phase 2 Angle is: -100.04
+Phase 3 Angle is: 20.05
+Latitude 22.25 Longitude 84.90 12:09:59:203 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.22
+Phasor Magnitude for Phase 2 is: 217.26
+Phasor Magnitude for Phase 3 is: 218.76
+Phase 1 Angle is: 142.09
+Phase 2 Angle is: -98.32
+Phase 3 Angle is: 21.20
+Latitude 22.25 Longitude 84.90 12:09:59:243 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.65
+Phasor Magnitude for Phase 2 is: 216.98
+Phasor Magnitude for Phase 3 is: 218.54
+Phase 1 Angle is: 149.54
+Phase 2 Angle is: -90.87
+Phase 3 Angle is: 29.22
+Latitude 22.25 Longitude 84.90 12:09:59:403 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.49
+Phasor Magnitude for Phase 2 is: 217.05
+Phasor Magnitude for Phase 3 is: 218.61
+Phase 1 Angle is: 151.26
+Phase 2 Angle is: -88.58
+Phase 3 Angle is: 30.94
+Latitude 22.25 Longitude 84.90 12:09:59:443 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.66
+Phasor Magnitude for Phase 2 is: 217.03
+Phasor Magnitude for Phase 3 is: 218.57
+Phase 1 Angle is: 152.98
+Phase 2 Angle is: -86.86
+Phase 3 Angle is: 32.66
+Latitude 22.25 Longitude 84.90 12:09:59:483 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.53
+Phasor Magnitude for Phase 2 is: 217.01
+Phasor Magnitude for Phase 3 is: 218.66
+Phase 1 Angle is: 155.27
+Phase 2 Angle is: -85.14
+Phase 3 Angle is: 34.95
+Latitude 22.25 Longitude 84.90 12:09:59:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.58
+Phasor Magnitude for Phase 2 is: 216.85
+Phasor Magnitude for Phase 3 is: 218.42
+Phase 1 Angle is: 156.99
+Phase 2 Angle is: -82.85
+Phase 3 Angle is: 36.67
+Latitude 22.25 Longitude 84.90 12:09:59:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.72
+Phasor Magnitude for Phase 2 is: 217.10
+Phasor Magnitude for Phase 3 is: 218.27
+Phase 1 Angle is: 158.71
+Phase 2 Angle is: -81.13
+Phase 3 Angle is: 38.39
+Latitude 22.25 Longitude 84.90 12:09:59:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.79
+Phasor Magnitude for Phase 2 is: 216.85
+Phasor Magnitude for Phase 3 is: 218.38
+Phase 1 Angle is: 161.00
+Phase 2 Angle is: -78.84
+Phase 3 Angle is: 40.68
+Latitude 22.25 Longitude 84.90 12:09:59:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.16
+Phasor Magnitude for Phase 2 is: 216.99
+Phasor Magnitude for Phase 3 is: 218.19
+Phase 1 Angle is: 162.72
+Phase 2 Angle is: -77.12
+Phase 3 Angle is: 42.40
+Latitude 22.25 Longitude 84.90 12:09:59:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.82
+Phasor Magnitude for Phase 2 is: 217.15
+Phasor Magnitude for Phase 3 is: 218.20
+Phase 1 Angle is: 164.44
+Phase 2 Angle is: -75.40
+Phase 3 Angle is: 44.12
+Latitude 22.25 Longitude 84.90 12:09:59:724 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.81
+Phasor Magnitude for Phase 2 is: 217.03
+Phasor Magnitude for Phase 3 is: 218.16
+Phase 1 Angle is: 166.73
+Phase 2 Angle is: -73.68
+Phase 3 Angle is: 46.41
+Latitude 22.25 Longitude 84.90 12:09:59:764 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.32
+Phasor Magnitude for Phase 2 is: 216.97
+Phasor Magnitude for Phase 3 is: 218.09
+Phase 1 Angle is: 169.02
+Phase 2 Angle is: -71.39
+Phase 3 Angle is: 48.13
+Latitude 22.25 Longitude 84.90 12:09:59:804 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.06
+Phasor Magnitude for Phase 2 is: 217.12
+Phasor Magnitude for Phase 3 is: 217.96
+Phase 1 Angle is: 170.17
+Phase 2 Angle is: -69.67
+Phase 3 Angle is: 49.85
+Latitude 22.25 Longitude 84.90 12:09:59:844 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.09
+Phasor Magnitude for Phase 2 is: 217.32
+Phasor Magnitude for Phase 3 is: 218.18
+Phase 1 Angle is: 172.46
+Phase 2 Angle is: -67.38
+Phase 3 Angle is: 52.14
+Latitude 22.25 Longitude 84.90 12:09:59:884 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.10
+Phasor Magnitude for Phase 2 is: 216.99
+Phasor Magnitude for Phase 3 is: 218.08
+Phase 1 Angle is: 174.18
+Phase 2 Angle is: -65.66
+Phase 3 Angle is: 53.86
+Latitude 22.25 Longitude 84.90 12:09:59:924 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.55
+Phasor Magnitude for Phase 2 is: 217.22
+Phasor Magnitude for Phase 3 is: 217.78
+Phase 1 Angle is: 175.90
+Phase 2 Angle is: -63.94
+Phase 3 Angle is: 55.58
+Latitude 22.25 Longitude 84.90 12:09:59:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.04
+Phasor Magnitude for Phase 2 is: 217.33
+Phasor Magnitude for Phase 3 is: 217.81
+Phase 1 Angle is: 177.62
+Phase 2 Angle is: -62.22
+Phase 3 Angle is: 57.30
+Latitude 22.25 Longitude 84.90 12:09:59:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.63
+Phasor Magnitude for Phase 2 is: 216.99
+Phasor Magnitude for Phase 3 is: 217.43
+Phase 1 Angle is: -179.11
+Phase 2 Angle is: -58.79
+Phase 3 Angle is: 60.16
+Latitude 22.25 Longitude 84.90 12:09:59:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.67
+Phasor Magnitude for Phase 2 is: 217.03
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -177.39
+Phase 2 Angle is: -57.07
+Phase 3 Angle is: 61.88
+Latitude 22.25 Longitude 84.90 12:10:00:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.74
+Phasor Magnitude for Phase 2 is: 217.17
+Phasor Magnitude for Phase 3 is: 217.08
+Phase 1 Angle is: -175.67
+Phase 2 Angle is: -55.35
+Phase 3 Angle is: 64.17
+Latitude 22.25 Longitude 84.90 12:10:00:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.55
+Phasor Magnitude for Phase 2 is: 217.55
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -173.38
+Phase 2 Angle is: -53.06
+Phase 3 Angle is: 66.46
+Latitude 22.25 Longitude 84.90 12:10:00:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.00
+Phasor Magnitude for Phase 2 is: 217.54
+Phasor Magnitude for Phase 3 is: 217.71
+Phase 1 Angle is: -172.80
+Phase 2 Angle is: -52.48
+Phase 3 Angle is: 67.04
+Latitude 22.25 Longitude 84.90 12:10:00:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.17
+Phasor Magnitude for Phase 2 is: 217.54
+Phasor Magnitude for Phase 3 is: 217.14
+Phase 1 Angle is: -170.51
+Phase 2 Angle is: -50.19
+Phase 3 Angle is: 68.75
+Latitude 22.25 Longitude 84.90 12:10:00:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.02
+Phasor Magnitude for Phase 2 is: 217.52
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -168.79
+Phase 2 Angle is: -48.47
+Phase 3 Angle is: 71.05
+Latitude 22.25 Longitude 84.90 12:10:00:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 219.03
+Phasor Magnitude for Phase 2 is: 217.66
+Phasor Magnitude for Phase 3 is: 217.42
+Phase 1 Angle is: -167.07
+Phase 2 Angle is: -46.75
+Phase 3 Angle is: 72.77
+Latitude 22.25 Longitude 84.90 12:10:00:323 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.94
+Phasor Magnitude for Phase 2 is: 217.65
+Phasor Magnitude for Phase 3 is: 217.34
+Phase 1 Angle is: -165.36
+Phase 2 Angle is: -45.03
+Phase 3 Angle is: 74.48
+Latitude 22.25 Longitude 84.90 12:10:00:363 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.67
+Phasor Magnitude for Phase 2 is: 217.87
+Phasor Magnitude for Phase 3 is: 217.24
+Phase 1 Angle is: -157.33
+Phase 2 Angle is: -37.01
+Phase 3 Angle is: 82.51
+Latitude 22.25 Longitude 84.90 12:10:00:523 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.90
+Phasor Magnitude for Phase 2 is: 217.91
+Phasor Magnitude for Phase 3 is: 217.27
+Phase 1 Angle is: -155.62
+Phase 2 Angle is: -35.29
+Phase 3 Angle is: 84.22
+Latitude 22.25 Longitude 84.90 12:10:00:563 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.95
+Phasor Magnitude for Phase 2 is: 218.15
+Phasor Magnitude for Phase 3 is: 217.09
+Phase 1 Angle is: -153.90
+Phase 2 Angle is: -33.58
+Phase 3 Angle is: 85.94
+Latitude 22.25 Longitude 84.90 12:10:00:603 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.81
+Phasor Magnitude for Phase 2 is: 218.31
+Phasor Magnitude for Phase 3 is: 216.97
+Phase 1 Angle is: -152.18
+Phase 2 Angle is: -31.86
+Phase 3 Angle is: 88.24
+Latitude 22.25 Longitude 84.90 12:10:00:643 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.67
+Phasor Magnitude for Phase 2 is: 218.07
+Phasor Magnitude for Phase 3 is: 217.21
+Phase 1 Angle is: -149.89
+Phase 2 Angle is: -29.56
+Phase 3 Angle is: 89.95
+Latitude 22.25 Longitude 84.90 12:10:00:683 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.83
+Phasor Magnitude for Phase 2 is: 218.36
+Phasor Magnitude for Phase 3 is: 217.21
+Phase 1 Angle is: -148.17
+Phase 2 Angle is: -27.85
+Phase 3 Angle is: 91.67
+Latitude 22.25 Longitude 84.90 12:10:00:723 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.56
+Phasor Magnitude for Phase 2 is: 218.60
+Phasor Magnitude for Phase 3 is: 216.96
+Phase 1 Angle is: -146.45
+Phase 2 Angle is: -26.13
+Phase 3 Angle is: 93.39
+Latitude 22.25 Longitude 84.90 12:10:00:763 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.43
+Phasor Magnitude for Phase 2 is: 218.55
+Phasor Magnitude for Phase 3 is: 217.14
+Phase 1 Angle is: -144.73
+Phase 2 Angle is: -23.84
+Phase 3 Angle is: 95.68
+Latitude 22.25 Longitude 84.90 12:10:00:803 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.58
+Phasor Magnitude for Phase 2 is: 218.13
+Phasor Magnitude for Phase 3 is: 217.08
+Phase 1 Angle is: -142.44
+Phase 2 Angle is: -22.12
+Phase 3 Angle is: 97.40
+Latitude 22.25 Longitude 84.90 12:10:00:843 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.57
+Phasor Magnitude for Phase 2 is: 218.40
+Phasor Magnitude for Phase 3 is: 217.04
+Phase 1 Angle is: -140.72
+Phase 2 Angle is: -19.82
+Phase 3 Angle is: 99.69
+Latitude 22.25 Longitude 84.90 12:10:00:883 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.33
+Phasor Magnitude for Phase 2 is: 218.89
+Phasor Magnitude for Phase 3 is: 217.07
+Phase 1 Angle is: -139.00
+Phase 2 Angle is: -18.68
+Phase 3 Angle is: 101.41
+Latitude 22.25 Longitude 84.90 12:10:00:923 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.43
+Phasor Magnitude for Phase 2 is: 218.50
+Phasor Magnitude for Phase 3 is: 217.22
+Phase 1 Angle is: -136.71
+Phase 2 Angle is: -16.39
+Phase 3 Angle is: 103.71
+Latitude 22.25 Longitude 84.90 12:10:00:964 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.19
+Phasor Magnitude for Phase 2 is: 218.74
+Phasor Magnitude for Phase 3 is: 217.41
+Phase 1 Angle is: -133.27
+Phase 2 Angle is: -12.95
+Phase 3 Angle is: 107.14
+Latitude 22.25 Longitude 84.90 12:10:00:2 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.01
+Phasor Magnitude for Phase 2 is: 219.22
+Phasor Magnitude for Phase 3 is: 216.67
+Phase 1 Angle is: -130.41
+Phase 2 Angle is: -10.08
+Phase 3 Angle is: 110.01
+Latitude 22.25 Longitude 84.90 12:10:00:42 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.20
+Phasor Magnitude for Phase 2 is: 219.16
+Phasor Magnitude for Phase 3 is: 216.80
+Phase 1 Angle is: -128.69
+Phase 2 Angle is: -7.79
+Phase 3 Angle is: 111.73
+Latitude 22.25 Longitude 84.90 12:10:01:82 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.87
+Phasor Magnitude for Phase 2 is: 219.36
+Phasor Magnitude for Phase 3 is: 216.95
+Phase 1 Angle is: -126.97
+Phase 2 Angle is: -6.07
+Phase 3 Angle is: 114.02
+Latitude 22.25 Longitude 84.90 12:10:01:122 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.79
+Phasor Magnitude for Phase 2 is: 219.18
+Phasor Magnitude for Phase 3 is: 216.83
+Phase 1 Angle is: -124.68
+Phase 2 Angle is: -4.35
+Phase 3 Angle is: 115.74
+Latitude 22.25 Longitude 84.90 12:10:01:162 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.77
+Phasor Magnitude for Phase 2 is: 218.86
+Phasor Magnitude for Phase 3 is: 217.39
+Phase 1 Angle is: -123.53
+Phase 2 Angle is: -3.21
+Phase 3 Angle is: 116.88
+Latitude 22.25 Longitude 84.90 12:10:01:202 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.82
+Phasor Magnitude for Phase 2 is: 218.75
+Phasor Magnitude for Phase 3 is: 217.45
+Phase 1 Angle is: -121.81
+Phase 2 Angle is: -1.49
+Phase 3 Angle is: 118.60
+Latitude 22.25 Longitude 84.90 12:10:01:242 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 218.00
+Phasor Magnitude for Phase 2 is: 218.69
+Phasor Magnitude for Phase 3 is: 217.48
+Phase 1 Angle is: -120.09
+Phase 2 Angle is: 0.00
+Phase 3 Angle is: 120.32
+Latitude 22.25 Longitude 84.90 12:10:01:282 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.79
+Phasor Magnitude for Phase 2 is: 218.94
+Phasor Magnitude for Phase 3 is: 217.48
+Phase 1 Angle is: -118.37
+Phase 2 Angle is: 1.72
+Phase 3 Angle is: 122.04
+Latitude 22.25 Longitude 84.90 12:10:01:322 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.56
+Phasor Magnitude for Phase 2 is: 218.75
+Phasor Magnitude for Phase 3 is: 217.77
+Phase 1 Angle is: -116.08
+Phase 2 Angle is: 4.01
+Phase 3 Angle is: 124.33
+Latitude 22.25 Longitude 84.90 12:10:01:362 23/02/2015
+
+Phasor Magnitude for Phase 1 is: 217.78
+Phasor Magnitude for Phase 2 is: 218.99
+Phasor Magnitude for Phase 3 is: 217.62
+Phase 1 Angle is: -114.36
+Phase 2 Angle is: 5.73
+Phase 3 Angle is: 126.05
+Latitude 22.25 Longitude 84.90 12:10:01:402 23/02/2015
+

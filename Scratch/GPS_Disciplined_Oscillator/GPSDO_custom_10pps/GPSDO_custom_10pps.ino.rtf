@@ -1,0 +1,75 @@
+{\rtf1\ansi\deff0\deftab480
+
+{\fonttbl
+{\f000 Courier New;}
+{\f001 Courier New;}
+{\f002 Courier New;}
+{\f003 Courier New;}
+{\f004 Courier New;}
+{\f005 Courier New;}
+{\f006 Courier New;}
+{\f007 Courier New;}
+{\f008 Courier New;}
+{\f009 Courier New;}
+}
+
+{\colortbl
+\red000\green000\blue000;
+\red255\green255\blue255;
+\red000\green128\blue000;
+\red255\green255\blue255;
+\red255\green128\blue000;
+\red255\green255\blue255;
+\red000\green000\blue255;
+\red255\green255\blue255;
+\red128\green000\blue255;
+\red255\green255\blue255;
+\red255\green128\blue000;
+\red255\green255\blue255;
+\red000\green000\blue128;
+\red255\green255\blue255;
+\red128\green128\blue128;
+\red255\green255\blue255;
+\red000\green000\blue000;
+\red255\green255\blue255;
+\red000\green000\blue000;
+\red255\green255\blue255;
+}
+
+\f0\fs20\cb19\cf18 \highlight9\cf8 int\highlight17\cf16  \highlight1\cf0 pinout\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 9;\highlight17\cf16 \par
+\highlight9\cf8 unsigned\highlight17\cf16  \highlight9\cf8 long\highlight17\cf16  \highlight1\cf0 time\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 0;\highlight17\cf16 \par
+\highlight9\cf8 int\highlight17\cf16  \highlight1\cf0 pulseCount\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 0;\highlight17\cf16 \par
+\highlight9\cf8 boolean\highlight17\cf16  \highlight1\cf0 ppsStart\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 false;\highlight17\cf16 \par
+\highlight9\cf8 boolean\highlight17\cf16  \highlight1\cf0 timing\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 false;\highlight17\cf16 \par
+\par
+\highlight9\cf8 void\highlight17\cf16  \highlight7\cf6\b setup\highlight13\cf12 ()\highlight17\cf16\b0 \par
+\highlight15\cf14 \{\highlight17\cf16 \par
+  \highlight7\cf6\b pinMode\highlight13\cf12 (\highlight1\cf0\b0 pinout\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b OUTPUT\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+  \highlight7\cf6\b pinMode\highlight13\cf12 (\highlight5\cf4\b0 2\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b INPUT\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+  \highlight7\cf6\b attachInterrupt\highlight13\cf12 (\highlight5\cf4\b0 0\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight1\cf0 pulsePPS\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b RISING\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+\highlight15\cf14 \}\highlight17\cf16 \par
+\par
+\highlight9\cf8 void\highlight17\cf16  \highlight7\cf6\b loop\highlight13\cf12 ()\highlight17\cf16\b0 \par
+\highlight15\cf14 \{\highlight17\cf16 \par
+\par
+  \highlight9\cf8 if\highlight13\cf12\b (\highlight1\cf0\b0 ppsStart\highlight17\cf16  \highlight13\cf12\b ==\highlight17\cf16\b0  \highlight9\cf8 true\highlight13\cf12\b )\highlight17\cf16\b0  \highlight15\cf14 \{\highlight17\cf16 \par
+    \highlight1\cf0 ppsStart\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 false;\highlight17\cf16 \par
+    \highlight9\cf8 for\highlight17\cf16  \highlight13\cf12\b (\highlight9\cf8\b0 int\highlight17\cf16  \highlight1\cf0 i\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 0;\highlight17\cf16  \highlight1\cf0 i\highlight17\cf16  \highlight13\cf12\b <\highlight17\cf16\b0  \highlight5\cf4 9\highlight17\cf16  \highlight1\cf0 ;\highlight17\cf16  \highlight1\cf0 i\highlight13\cf12\b ++)\highlight17\cf16\b0  \highlight15\cf14 \{\highlight17\cf16 \par
+      \highlight7\cf6\b digitalWrite\highlight13\cf12 (\highlight1\cf0\b0 pinout\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b HIGH\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+      \highlight7\cf6\b delay\highlight13\cf12 (\highlight5\cf4\b0 2\highlight13\cf12\b )\highlight1\cf0\b0 ;\highlight17\cf16  \highlight3\cf2 //2 ms width pulse\par
+\highlight17\cf16       \highlight7\cf6\b digitalWrite\highlight13\cf12 (\highlight1\cf0\b0 pinout\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b LOW\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+      \highlight7\cf6\b delay\highlight13\cf12 (\highlight5\cf4\b0 98\highlight13\cf12\b )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+    \highlight15\cf14 \}\highlight17\cf16 \par
+      \highlight7\cf6\b digitalWrite\highlight13\cf12 (\highlight1\cf0\b0 pinout\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b HIGH\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+      \highlight7\cf6\b delay\highlight13\cf12 (\highlight5\cf4\b0 2\highlight13\cf12\b )\highlight1\cf0\b0 ;\highlight17\cf16  \highlight3\cf2 //2 ms width pulse\par
+\highlight17\cf16       \highlight7\cf6\b digitalWrite\highlight13\cf12 (\highlight1\cf0\b0 pinout\highlight13\cf12\b ,\highlight17\cf16\b0  \highlight11\cf10\b LOW\highlight13\cf12 )\highlight1\cf0\b0 ;\highlight17\cf16 \par
+    \highlight1\cf0 ppsStart\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 false;\highlight17\cf16 \par
+  \highlight15\cf14 \}\highlight17\cf16 \par
+\highlight15\cf14 \}\highlight17\cf16 \par
+\par
+\highlight9\cf8 void\highlight17\cf16  \highlight1\cf0 pulsePPS\highlight13\cf12\b ()\highlight17\cf16\b0  \highlight3\cf2 //interrupt routine and a single 50us pulse\par
+\highlight15\cf14 \{\highlight17\cf16 \par
+  \highlight1\cf0 ppsStart\highlight17\cf16  \highlight13\cf12\b =\highlight17\cf16\b0  \highlight1\cf0 true;\highlight17\cf16 \par
+\highlight15\cf14 \}\highlight17\cf16 \par
+\par
+}
